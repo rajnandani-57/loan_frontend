@@ -1,6 +1,10 @@
 * {
   box-sizing: border-box;
+<<<<<<< HEAD
   margin: 20px;
+=======
+  margin: 5px;
+>>>>>>> conflict-test
   padding: 0;
 }
 
